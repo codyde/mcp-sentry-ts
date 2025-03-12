@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for interacting with Sentry. This MCP server provides tools to interact with the Sentry API, allowing AI assistants to retrieve and analyze error data, manage projects, and monitor application performance.
 
+<a href="https://glama.ai/mcp/servers/sfel2251tz">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/sfel2251tz/badge" alt="Sentry Server MCP server" />
+</a>
+
 ## Requirements
 
 - Node.js (v14 or higher)
